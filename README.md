@@ -27,9 +27,8 @@ A full adder computes the sum of three input bits (A, B, Cin) and outputs the Su
 
 ## Installation / Tools
 
-* **Software:** Cadence Virtuoso / LTSpice / Any VLSI circuit simulation tool.
+* **Software:**  LTSpice and Simulink.
 * **Environment:** CMOS technology library for PMOS and NMOS transistors.
-* **Optional:** Python / MATLAB for waveform visualization.
 
 ## Implementation
 
@@ -58,6 +57,19 @@ A full adder computes the sum of three input bits (A, B, Cin) and outputs the Su
 * Extend design to multi-bit adders (4-bit, 8-bit) using ripple-carry or carry-lookahead architectures.
 * Explore low-power and high-speed transistor-level optimizations.
 * Implement on FPGA or ASIC for practical testing.
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@software{1-Bit-Full-adder-in-LTspice,
+  author = {Shubhan Mital},
+  title = {1 Bit Full adder in LTspice},
+  year = {2025},
+  url = https://github.com/Shubhanflash22/1-Bit-Full-adder-in-LTspice.git
+}
+```
 
 ## License
 
